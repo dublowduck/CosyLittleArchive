@@ -1,0 +1,2 @@
+# Node moduals are downloaded by NPM when app is built
+node_modules/
